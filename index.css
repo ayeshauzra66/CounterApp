@@ -1,0 +1,22 @@
+body{
+text-align:center;
+background-image:url("https://i.ytimg.com/vi/TE5ijwM-Yvg/maxresdefault.jpg");
+font-size:20px;
+background-image:cover;
+display:block;
+}
+button{
+padding:15px;
+border:2px soild white;
+margin:10px auto;
+color:white;
+display:flex;
+font-size:bold;
+border-radius:10%;
+}
+#increment-btn{
+background-color:red;
+}
+#save-btn{
+background-color:green;
+}
